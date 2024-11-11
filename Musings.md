@@ -1,0 +1,9 @@
+# Musings
+
+## Nguyen, C.  [_Games: Agency as Art_](https://academic.oup.com/book/32137)
+
+Unsurprisingly, I already get a sense that I am going to love this book. Nguyen's interview with [Keywords in Play](https://www.critical-distance.com/2021/03/15/agency-thi-nguyen-keywords-in-play-episode-10/) way back in 2021 was *so good* and it is shocking (not shocking) that I am only just now getting to reading this. 
+
+This quote from Andrew Darley condemning games feels useful "Computer games are machine-like: they solicit intense concentration from the player who is caught up in their mechanisms ... leaving little room for reflection other than an instrumental type of thinking that is more or less commensurate with their own workings" (7) - In general, there feels to be a lot of material in Nguyen's text that can support games doing something *more* by the very nature of the aesthetic quality of agency ("crstallization of paracticality" (13)). The statement that "games can be a way that we *collaborate* in the project of developing our agency and autonomy" (18) is especially useful. Does this help to strengthen the argument that games are able to function in the same way as "architecture" does for [Djebarra et al](https://github.com/mouseandthebillionaire/RAGE/blob/main/relatedWork.md#djebbara-z-et-al-contemplative-neuroaesthetics-and-architecture-a-sensorimotor-exploration-2023)? As a means for the designer and user to set up shared experiential goals?
+
+I also appreciate how Nguyen is widening the discourse to all games (chance, sport, party games, etc) rather than just digital games, and it will be interesting to see the examples that he comes up with throughout.
