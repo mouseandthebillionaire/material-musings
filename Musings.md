@@ -1,5 +1,16 @@
 # Musings
 
+## Christie, A. *The Murder of Roger Ackroyd*
+
+A strange place to find a bit of insight surrounding games and play, but this section from Agatha Christie's murder mystery struck me recently as I was reading it: 
+
+_A good deal of gossip is handed round at these evenings, sometimes seriously interfering with the game in progress. We used to play bridge-- chatty bridge of the worst description. We find Mah Jong much more peaceful. The irritated demand as to why on earth your partner did not lead a certain card is entirely done away with, and though we still express criticism frankly, there is not the same acrimonious spirit._ (124)
+
+I've always appreciated the games that facilitate rather than hinder the conversational aspects of an evening. I think it is part of the reason that I am not very interested in social deduction games- the subterfuge and deceit inherent in these games makes for bad social circumstances. How can you separate the deftly-told lies from the supposed interest in your punch recipe? 
+
+Beyond this there are even more ways that the mechanics of a game seem to support companionship over competition. One of these might be simplicity? Both *Oh Hell* and *Gin* have been go-to games in my life. The pure ease of the decision-making process in these means that I can be discussing film, literature, etc, while still focusing on making the best hand possible. Or perhaps this just comes from familiarity? If you know a game well enough, it isn't taxing too much of your focus and you can be pleasantly sociable. A good enough reason, it would seem, to be careful not to always be introducing new games during a game night.
+
+
 ## Koyama, K. _Three Mile an Hour God_
 
 ### I Cannot Push Time Around
