@@ -29,7 +29,7 @@ Koyama claims that the Buddha combines greed and time. In this instance time is 
 
 [Todd Baker](http://www.soundcirclemusic.com)'s sound design / music for this game is so good. It's one of those things where you experience it and immediately throw your hands up in despair that someone has done the thing so well that you have been trying to do for ages. It is the Amadeus to my Salieri. The way that the interaction noises contribute to the overall musicality is so good. And the buildup of the music is really nice. I am finding Level 4 (Origata Atelier) especially compelling with the sketchy, papery sounds reflecting the origami-folding aspects of the level mechanics. I've played through it a second time just so that I can make simple progressive movements in the game and then sit with those changes for a bit.  I'm fairly floored. 
 
-![Level 4 Walkthrough](https://www.youtube.com/watch?v=uM-aKP0p2Dc)
+[![Level 4 Walkthrough](https://www.youtube.com/watch?v=uM-aKP0p2Dc)](https://www.youtube.com/watch?v=uM-aKP0p2Dc)
 
 Side note: it's somewhat interesting to think about how game soundtracks like this one sell really well (especially on vinyl) when the original and best format is within the game. Couldn't you just leave the game on? Not very convenient? I suppose for it to progress, there would need to be some user interaction, but still, something to think on.
 
