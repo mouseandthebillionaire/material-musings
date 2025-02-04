@@ -25,6 +25,14 @@ But beyond this, the "temperature" of time is tied to tranquility and the idea o
 
 Koyama claims that the Buddha combines greed and time. In this instance time is changed by our handling of unnatural greed, want, desires, unsettling. A voracious 'want' is the enemy of tranquility. Is there a way to create an experience that communicates this? Does the very act of creating something new in the world feed into this 'culture of want?' Can we make experiences/products/writing/etc that work as an enemy of want vs an enemy of tranquility?
 
+## Monument Valley 3
+
+[Todd Baker](http://www.soundcirclemusic.com)'s sound design / music for this game is so good. It's one of those things where you experience it and immediately throw your hands up in despair that someone has done the thing so well that you have been trying to do for ages. It is the Amadeus to my Salieri. The way that the interaction noises contribute to the overall musicality is so good. And the buildup of the music is really nice. I am finding Level 4 (Origata Atelier) especially compelling with the sketchy, papery sounds reflecting the origami-folding aspects of the level mechanics. I've played through it a second time just so that I can make simple progressive movements in the game and then sit with those changes for a bit.  I'm fairly floored. 
+
+![Level 4 Walkthrough](https://www.youtube.com/watch?v=uM-aKP0p2Dc)
+
+Side note: it's somewhat interesting to think about how game soundtracks like this one sell really well (especially on vinyl) when the original and best format is within the game. Couldn't you just leave the game on? Not very convenient? I suppose for it to progress, there would need to be some user interaction, but still, something to think on.
+
 ## Nguyen, C.  [_Games: Agency as Art_](https://academic.oup.com/book/32137)
 
 Unsurprisingly, I already get a sense that I am going to love this book. Nguyen's interview with [Keywords in Play](https://www.critical-distance.com/2021/03/15/agency-thi-nguyen-keywords-in-play-episode-10/) way back in 2021 was *so good* and it is shocking (not shocking) that I am only just now getting to reading this. 
